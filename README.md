@@ -42,7 +42,7 @@ CS student at the University of Lethbridge. Learning to make better software eve
 
 ## Projects
 
-### [Tamaureus](https://github.com/NStranzinger/tamaureus)
+### [Tamaureus](https://github.com/stranzn/tamaureus)
 A cross-platform desktop music player built with **Tauri**, **SolidJS** on the frontend, and **Rust** on the backend. Lightweight, fast, and native — no Electron.
 
 ---
