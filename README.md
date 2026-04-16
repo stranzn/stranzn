@@ -1,6 +1,6 @@
 # Hi, I'm Niko
 
-CS student at the University of Lethbridge. I'm here to learn, build, and slowly make the world's software a little better.
+CS student at the University of Lethbridge. Learning to make better software everyday.
 
 ---
 
